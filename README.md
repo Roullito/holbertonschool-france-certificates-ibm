@@ -1,22 +1,54 @@
-# 🎓 IBM Certifications Repository
+# 🎓 IBM Certifications – Holberton School France
 
-Welcome to this repository! It contains all **IBM certificates** earned as part of the **Holberton School France** curriculum.
+This repository contains IBM certifications earned during my training at **Holberton School France**, as part of the IBM Skills Network partnership. These certifications reflect my progress in open source, DevOps, cloud technologies, and collaborative software development.
 
-## 📂 Contents
+---
 
-This repository includes:
-- ✅ Official certificates from IBM Skills Network courses
-- 📁 Proof of completion for modules related to open source, Git, CI/CD, and collaborative software development
+## 🏅 Certifications Earned
 
-Each certificate is stored as a `.pdf` or `.png` file, organized by topic or in chronological order.
+Below are the badges representing the certifications I've completed through IBM Skills Network:
+
+### ✅ Open Source Foundations
+![IBM Open Source Foundations Certificate](./open-source-foundations.png)
+
+> *Level: Foundational*
+> *Issued by: IBM Skills Network*
+
+<!-- You can duplicate the block below for future certifications -->
+
+<!--
+### ✅ [Name of Certification]
+![Badge Title](./badge-file-name.png)
+
+> *Level: [Foundational / Intermediate / Advanced]*
+> *Issued by: IBM Skills Network*
+-->
+
+---
+
+## 📁 Repository Structure
+
+- `/certificates/` – All official certificates in `.pdf` format (if applicable)
+- Image badges in `.png` format for each achievement
+- `README.md` – Overview of progress and certification list
+
+---
 
 ## 🎯 Purpose
 
 This repository serves to:
-- **Archive and showcase certifications** obtained during my training
-- **Demonstrate progress and knowledge** in open source and software development practices
-- **Share accomplishments** with recruiters, technical mentors, or collaborators
+- 🗃️ Archive and showcase professional certifications
+- 🚀 Track progress in mastering IBM-related open technologies
+- 🌍 Share achievements with recruiters, collaborators, and mentors
 
-## 🧾 Notes
+---
 
-All certificates are personal and were earned through IBM-endorsed educational programs under the Holberton School learning path.
+## 📚 Related Links
+
+- [Holberton School France](https://www.holbertonschool.fr/)
+- [IBM Skills Network](https://skills.network/)
+- [Choose a License](https://choosealicense.com/) (if you decide to open source this repo)
+
+---
+
+> 📌 *This repository is intended for personal certification tracking and portfolio visibility.*
