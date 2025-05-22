@@ -9,7 +9,7 @@ This repository contains IBM certifications earned during my training at **Holbe
 Below are the badges representing the certifications I've completed through IBM Skills Network:
 
 ### ✅ Open Source Foundations
-[![IBM Open Source Foundations Certificate](./open-source-foundations.png)](https://your-certificate-verification-link.com)
+[![IBM Open Source Foundations Certificate](./open-source-foundations.png)](https://courses.skillsbuild.skillsnetwork.site/certificates/04947224e1cb4683ab2f76b518c89184)
 
 > *Level: Foundational*
 > *Issued by: IBM Skills Network*
