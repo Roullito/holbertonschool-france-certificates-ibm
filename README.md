@@ -9,7 +9,10 @@ This repository contains IBM certifications earned during my training at **Holbe
 Below are the badges representing the certifications I've completed through IBM Skills Network:
 
 ### ✅ Open Source Foundations
-[![IBM Open Source Foundations Certificate](./open-source-foundations.png)](https://courses.skillsbuild.skillsnetwork.site/certificates/04947224e1cb4683ab2f76b518c89184)
+[![IBM Open Source Foundations Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=readthedocs)](https://courses.skillsbuild.skillsnetwork.site/certificates/04947224e1cb4683ab2f76b518c89184)
+
+### ✅ Agile Explorer
+[![IBM Agile Explorer Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=readthedocs)](./certificate-agile.pdf)
 
 > *Level: Foundational*
 > *Issued by: IBM Skills Network*
